@@ -19,5 +19,5 @@
 - Working towards a personal portfolio website
 
 - 📫 Connect with me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([[https://linkedin.com/in/your-profile]](https://www.linkedin.com/in/kapis-varia-903845311?utm_source=share_via&utm_content=profile&utm_medium=member_android))
--[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]([https://instagram.com/your-handle](https://www.instagram.com/kapisvaria?igsi=ZzZlbHFmbzRrbGdx))
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/kapis-varia-903845311?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]((https://www.instagram.com/kapisvaria?igsi=ZzZlbHFmbzRrbGdx))
