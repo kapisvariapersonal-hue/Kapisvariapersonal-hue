@@ -1,4 +1,4 @@
-# Hi,I m Kapis varia👋
+# Hi,I am Kapis varia👋
 
 🎓 First-year B.Tech student from Mumbai, India
 💻 Learning web development — starting with HTML, CSS, and JavaScript
@@ -19,5 +19,5 @@
 - Working towards a personal portfolio website
 
 - 📫 Connect with me
-- LinkedIn: [https://www.linkedin.com/in/kapis-varia-903845311?utm_source=share_via&utm_content=profile&utm_medium=member_android]
-- Email: [kapisvaria.personal@gmail.com]
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/your-handle)
